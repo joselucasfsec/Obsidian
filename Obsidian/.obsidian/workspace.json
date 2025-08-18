@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27d1d5d0d97f553f",
+    "type": "split",
+    "children": [
+      {
+        "id": "69daa29616269dd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cb7c10f657b6d11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "25c84b81d15ecfaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hydra",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "ed48ce16d4b99247",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5
+  },
+  "right": {
+    "id": "a16511116237c7ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "035dd399dd533aa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a60cd483a57bc377",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 - Notas Completas/Redes/Redes/Capítulo 1 - Usos de Rede De Computadores.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Capítulo 1 - Usos de Rede De Computadores"
+            }
+          },
+          {
+            "id": "547d7ff252827643",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 - Notas Completas/Redes/Redes/Capítulo 1 - Usos de Rede De Computadores.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Capítulo 1 - Usos de Rede De Computadores"
+            }
+          },
+          {
+            "id": "7c4e6ae69cacf923",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Home"
+            }
+          },
+          {
+            "id": "e00f550f64bcf89a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dd4d14c77aed1165",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "643779856c25e9d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Topics/Programação/Sem título.md"
+              },
+              "icon": "lucide-info",
+              "title": "Propriedades do arquivo Sem título"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "callout-manager:Insert Callout": false,
+      "homepage:Open homepage": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "templater-obsidian:Templater": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Home.md",
+    "Topics/Bases Técnicas/Protocolos/FTP 21.md",
+    "Topics/Tricks/Bruteforce/Brute Force.md",
+    "Topics/Ferramentas para Pentest/Hydra.md",
+    "Topics/Tricks/Bruteforce",
+    "Topics/Tricks",
+    "Topics/Bases Técnicas/Protocolos/389, 636, 3268, 3269 LDAP.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/Intelligence Gathering.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/2 - Information Gathering - INFRA/Subdomain Discovery.md",
+    "Topics/Checklist Pentest/3 - Análise do Ambiente/Análise do Ambiente.md",
+    "Topics/Checklist Pentest/3 - Análise do Ambiente/Enumeração.md",
+    "Topics/Checklist Pentest/2 - Reconhecimento/Identificar hosts ativos.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/3 - Information Gathering - WEB/WEB RECON.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/3 - Information Gathering - WEB/Robots.txt e Sitemap.xml.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/3 - Information Gathering - WEB/Mirror Website.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/3 - Information Gathering - WEB/Indentificar erros e códigos.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/3 - Information Gathering - WEB/Identificar webserver e Métodos aceitos.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/3 - Information Gathering - WEB/Enumerar Parâmetros.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/3 - Information Gathering - WEB/Encontrar arquivos e diretórios.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/2 - Information Gathering - INFRA/Mapeando por BGP.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/2 - Information Gathering - INFRA/Subdomain Takeover.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/2 - Information Gathering - INFRA/Transferência de zona.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/2 - Information Gathering - INFRA/SHODAN.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/2 - Information Gathering - INFRA/RDAP.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/2 - Information Gathering - INFRA/PESQUISA POR IP.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/2 - Information Gathering - INFRA/Ferramentas para reconhecimento de DNS.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/2 - Information Gathering - INFRA/Coletando informações com o WHOIS.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/2 - Information Gathering - INFRA/COLETA DE INFROMAÇÕES CENSYS.md",
+    "Topics/Programação/Python",
+    "Topics/Hacking Club/Advanced Web Hacking/Desserialização insegura",
+    "Arquivos/imagens/estrutura-de-subdominioo.jpg",
+    "Topics/Checklist Pentest/5 - Pós-exploração/Pós Exploração Linux/Explorações",
+    "Topics/Tools Pentest/JohntheRipper",
+    "Topics/Checklist Pentest/5 - Pós-exploração/Pós Exploração Linux/Tools automatizadas",
+    "Topics/Checklist Pentest/5 - Pós-exploração/Pós Exploração Windows",
+    "Topics/Checklist Pentest/5 - Pós-exploração/Pós Exploração Linux/Transferência de arquivos",
+    "Arquivos/imagens/2025-07-30_15-00.png",
+    "Topics/Sistemas Operacionais/Windows Server 2016",
+    "Arquivos/imagens/env2.png",
+    "Arquivos/imagens/env.png",
+    "Arquivos/imagens/permisaolinux.png",
+    "Arquivos/imagens/hierarquia_linux.png",
+    "Arquivos/imagens/Ca.png",
+    "Media/Ca.png",
+    "Arquivos/imagens/Captura de tela de 2025-07-02 10-39-41.png",
+    "Arquivos/imagens/Pasted image 20250630080708.png",
+    "Sem título.canvas"
+  ]
+}

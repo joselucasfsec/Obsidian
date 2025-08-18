@@ -1,0 +1,1 @@
+A falha de SQL Blind ocorre quando

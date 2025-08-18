@@ -1,0 +1,4 @@
+O licenciamento do Windows Server 2016 utiliza-se de um sistema chamado KMS(Serviços de Gerenciamento de Chaves). O KMS possui uma estrutura cliente-servidor para ativer clientes Windows.
+O KMS possui uma estrutura cliente-servidor para ativar cliente Windows.
+Os clientes KMS se conectam a um servidor KMS, chamado de host KMS, para ativação de suas licenças. O host KMS deve estar na rede local do servidor Windows 2016.
+É importante ressaltar que um host KMS instalado em um Windows cliente só pode licenciar versões clientes equivalentes. Por outro lado, um host KMS instado em um Windows Server, pode ativar tanto servidores quanto clientes Windows.

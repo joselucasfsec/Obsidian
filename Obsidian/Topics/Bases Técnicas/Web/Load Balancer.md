@@ -1,0 +1,1 @@
+É um serviço que faz balanceamento de acessos ao servidor, ele cria copias do site em outros servidores e redireciona os usuários para o servidor com menos acessos naquele momento. Ele também pode desligar os servidores e ligá-los novamente quando algo der errado.

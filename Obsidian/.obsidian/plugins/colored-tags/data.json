@@ -1,0 +1,39 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "web": 1,
+    "xml": 2,
+    "Information-Gathering": 3,
+    "reconhecimento": 4,
+    "tools": 5,
+    "fuzzing": 6,
+    "ctf": 7,
+    "injection": 8,
+    "brute-force": 9,
+    "web_vulnerability": 10,
+    "PHP": 11,
+    "Active_Directory": 12,
+    "Samba": 13,
+    "View": 14,
+    "Fazer": 15,
+    "Conectar": 16,
+    "Se": 17,
+    "Senha": 18,
+    "Recursive": 19,
+    "windows": 20,
+    "perl": 21,
+    "ruby": 22,
+    "lua": 23,
+    "include": 24
+  },
+  "_version": 3
+}

@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "dc0d6848c5d5e33f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f57d9afb06b56cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b12bccaf794e4844",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cff04e6eca84be7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbaf447cf66d7ae4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b0d8eeca01a81f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "77f931abcfaac278",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "78dd21ae4cce67ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "baa6648aa1a0bb17",
+    "type": "split",
+    "children": [
+      {
+        "id": "a199a2c2816f40d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d462baba9b73940d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian/Media/homepage/Sem título.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Sem título"
+            }
+          },
+          {
+            "id": "7e452ea243a2010c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian/Media/homepage/Sem título.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Sem título"
+            }
+          },
+          {
+            "id": "8a86b7cfc809113a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fd959f12a30095c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/Media/homepage/Sem título.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Sem título"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b12bccaf794e4844",
+  "lastOpenFiles": [
+    "Obsidian/Topics/Checklist Pentest/4 - Web Hacking/SQL injection/SQLi Error Based.md",
+    "Obsidian/Topics/Checklist Pentest/4 - Web Hacking/SQL injection/SQL Blind.md",
+    "Obsidian/Topics/Checklist Pentest/4 - Web Hacking/SQL injection/SQL Injection.md",
+    "Obsidian/Topics/Checklist Pentest/4 - Web Hacking/SQL injection/Bypass Authentication.md",
+    "Obsidian/Topics/Hacking Club/Web Hacking/SQL Injection/SQLi Error Based.md",
+    "Obsidian/Topics/Checklist Pentest/4 - Web Hacking/XXS/2 - XSS Reflected.md",
+    "Obsidian/Topics/Checklist Pentest/4 - Web Hacking/XXS/1 - XSS.md",
+    "Obsidian/Topics/Checklist Pentest/4 - Web Hacking/XXS/3 - Storage XSS.md",
+    "2025-07-14_16-42.png",
+    "Obsidian/Topics/Hacking Club/Web Hacking/XML External Entity Attack/XXE.md",
+    "Obsidian/Topics/Hacking Club/Web Hacking/XML External Entity Attack/OOB Out-of-Band.md",
+    "Obsidian/Topics/Hacking Club/Web Hacking/XML External Entity Attack/XXE Out-of-Band.md",
+    "Obsidian/Topics/Checklist Pentest/4 - Web Hacking/IDOR/IDOR.md",
+    "Obsidian/Topics/Checklist Pentest/5 - Pós-exploração/Shell Upgrade/Atualizando Shell Linux.md",
+    "Obsidian/Topics/Checklist Pentest/4 - Web Hacking/IDOR",
+    "Obsidian/Topics/Checklist Pentest/4 - Web Hacking/Sem título.md",
+    "Obsidian/Topics/Checklist Pentest/4 - Web Hacking/LFI",
+    "Obsidian/Topics/Checklist Pentest/4 - Web Hacking/XXS",
+    "Obsidian/Topics/Checklist Pentest/4 - Web Hacking/XXS.md",
+    "Obsidian/Topics/Checklist Pentest/4 - Web Hacking/SQL injection",
+    "Obsidian/Topics/Checklist Pentest/4 - Web Hacking",
+    "Obsidian/Topics/Bases Técnicas/Protocolos/SMB.md",
+    "Obsidian/Topics/Checklist Pentest/1 - Information Gathering/Information Gathering - Business/Coletando endereço de e-mail.md",
+    "Obsidian/Topics/Checklist Pentest/1 - Information Gathering/Information Gathering - Business/Buscando domínios similares.md",
+    "Obsidian/Topics/Checklist Pentest/3 - Análise do Ambiente/Identificar detalhes dos serviços.md",
+    "Obsidian/Topics/Checklist Pentest/3 - Análise do Ambiente/Enumeração.md",
+    "Obsidian/Topics/Checklist Pentest/2 - Reconhecimento/Identificar o Sistema Operacional.md",
+    "Obsidian/Topics/Checklist Pentest/3 - Análise do Ambiente/Análise do Ambiente.md",
+    "Obsidian/1 - Notas Rápidas/SSRF explorando metadados da AWS.md",
+    "Obsidian/1 - Notas Rápidas/POO PHP.md",
+    "Obsidian/1 - Notas Rápidas/XML.md",
+    "Obsidian/Topics/Checklist Pentest/5 - Pós-exploração/Pós Exploração Linux/Python Library Hijackjing.md",
+    "Obsidian/Topics/Bases Técnicas/Protocolos"
+  ]
+}

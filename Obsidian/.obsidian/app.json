@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "Arquivos/imagens",
+  "readableLineLength": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "propertiesInDocument": "source"
+}

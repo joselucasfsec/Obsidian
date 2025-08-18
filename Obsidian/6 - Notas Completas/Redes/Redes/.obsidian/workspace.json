@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "71d3b908535e6361",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6cfb26103be4ce8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dba061d365a56c5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capítulo 1 - Usos de Rede De Computadores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cde34a3715571eeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ceb177ca7250515",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "405c60097b148695",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b429bf6d550da40e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c18935f67aaa270",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f096f16004c9a15f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d15c9788c8829216",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bea641cf7611ad8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Capítulo 1 - Usos de Rede De Computadores.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfc6e3955b906fbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Capítulo 1 - Usos de Rede De Computadores.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf81d8d6336e3a6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e518ca079402fec8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Capítulo 1 - Usos de Rede De Computadores.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "dba061d365a56c5b",
+  "lastOpenFiles": [
+    "Dados.md",
+    "Capítulo 1 - Usos de Rede De Computadores.md",
+    "Redes de Computadores"
+  ]
+}
