@@ -9,13 +9,14 @@
 -  DCPT
 
 # Intelligence Gathering
-[[Subdomain Discovery]]
-[[Application Discovery]]
+- [[Subdomain Discovery]]
+- [[Application Discovery]]
 
 # Bases Técnicas
 -  Linux
 
-
+# Programação
+- [[Orientação a Objeto python]]
 # Vault Info
 - 🗄️ Recent file updates
  `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`

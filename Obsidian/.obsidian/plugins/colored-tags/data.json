@@ -33,7 +33,10 @@
     "perl": 21,
     "ruby": 22,
     "lua": 23,
-    "include": 24
+    "include": 24,
+    "python": 25,
+    "progamação": 26,
+    "smb": 27
   },
   "_version": 3
 }

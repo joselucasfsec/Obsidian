@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCodeXml",
+      "LiArchive",
       "LiAppWindowMac",
       "💽",
-      "🧰",
-      "FasCrown",
-      "FabWeebly"
+      "🧰"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -69,10 +69,10 @@
     "iconColor": "#7101bc"
   },
   "Topics/Bases Técnicas": "LiSettings",
-  "Topics/Web Hacking": {
-    "iconName": "FabWeebly",
-    "iconColor": "#1f35e0"
+  "Topics/Ferramentas para Pentest": {
+    "iconName": "LiArchive",
+    "iconColor": "#ffffff"
   },
-  "Topics/Ferramentas para Pentest": "🧰",
-  "Topics/Sistemas Operacionais": "LiAppWindowMac"
+  "Topics/Sistemas Operacionais": "LiAppWindowMac",
+  "Topics/Programação": "LiCodeXml"
 }
