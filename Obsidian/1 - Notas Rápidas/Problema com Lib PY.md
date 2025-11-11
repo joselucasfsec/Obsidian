@@ -1,0 +1,1 @@
+https://medium.com/@swiftproxy/resolving-the-externally-managed-environment-error-in-python-410e5485482b

@@ -1,10 +1,8 @@
 Tags: #fuzzing #tools
 
-### **Listagem de Diretorios
+### **Listagem de Diretórios
 
-Diretory Discovery
-
-
+Directory Discovery
 Onde está escrito FUZZ é onde ele vai adicionar a wordlist.
 
 **ffuf -c -w wordlist.txt -u** **[http://bussinescop.com.br](http://bussinescop.com.br/FUZZ)****/FUZZ**
@@ -33,49 +31,32 @@ Filter out responses of lenght 612
 
 ffuf -c -w wordlist.txt -u http://ffuf.io.fi -H “Host: FFUF.ffuf.io.fi" -fs 612
 
-É muito comum ele retornar muitos falsos positivos, podemos edentificar e filtralos.
-
+É muito comum ele retornar muitos falsos positivos, podemos identificar e filtrá-los.
+```
 _**-fw**_ : to filter by the amount of words
-
-_**-fl**_ : to filter by the number of lines
-
+_**-fl**_ : to filter by the number of line
 _**-fs**_ : to filter by the size of the response
-
 _**-fc**_ : to filter by the status code
-
 _**-fr**_ : to filter by the regex pattern
-
-### GET parameter fuzzing
-
-
-Conseguimos enumerar os paramentos GET utilizando o ffuf. Primeiro precisamos saber
-
-o tamanho da resposta 200 para iniciar o fuzzing:
-
+```
+#### GET parameter fuzzing
+Conseguimos enumerar os paramentos GET utilizando o ffuf. Primeiro precisamos saber o tamanho da resposta 200 para iniciar o fuzzing:
+```
 **ffuf -w wordlists.txt -u http://target/script.php?FUZZ=test_value -fs 4242**
-
-**POST data fuzzing**
-
-Usando a flag -X para mudar o método de requisição, no exemplo a flag -d para especificar
-
-os dados a enviar.
-
-**ffuf -w /path/to/postdata.txt -X POST -d "username=admin\&password=FUZZ"**
-
-**-u** **[https://target/login.php](https://target/login.php)** **-fc 401**
-
-### Miscellaneous
-
+```
+#### **POST data fuzzing**
+Usando a flag -X para mudar o método de requisição, no exemplo a flag -d para especificar os dados a enviar.
+```
+ffuf -w /path/to/postdata.txt -X POST -d "username=admin\&password=FUZZ"
+-u https://target/login.php -fc 401
+```
+#### Miscellaneous
 A ferramenta nos permite fazer fuzz em qualquer parte da URL ou do header HTTP.
 
 **Brute-force**
+Conseguimos fazer brute force em páginas de login usando a flag -mode com dois modos de ataque **clusterbomb** and **pitchfork**. A ferramenta vai aceitar duas listas.
 
-Conseguimos fazer brute force em páginas de login usando a flag -mode com dois
-
-modos de ataque **clusterbomb** and **pitchfork**. A ferramenta vai aceitar duas listas.
-
-**clusterbomb:** cada item da lista é testato com todos da outra.
-
+**clusterbomb:** cada item da lista é testado com todos da outra.
 **pickfork:** o item 1 da listaA é testado com o item 1 da listaB.
 
 A flag -request pode ser usada com um arquivo com a requisição HTTP modificada

@@ -1,0 +1,3 @@
+Precisamos descrever a vulnerabilidade em: **Severidade, descrição executiva, impacto, descrição detalhada, ativos afetados, referencias internacionais como OWASP, passo a passo para reprodução**.
+Vamos utilizar referencias da criticidade dessa vulnerabilidade para que nosso trabalho não seja diminuído ou visto como sem importância pela equipe de segurança.
+Uma boa pratica é utilizar gráficos e tabelas coloridas e bonitas para que haja interesse na leitura do relatório.

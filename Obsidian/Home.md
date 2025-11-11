@@ -1,22 +1,71 @@
-#   Seja intencional, Keep Learning 
-
-# DCPT
-
-- 👨‍👩‍👦 Objectives
-
-
- # Tarefas Prioritárias
--  DCPT
+# Seja intencional | Keep Learning 
 
 # Intelligence Gathering
+
+
+# Reconhecimento
 - [[Subdomain Discovery]]
 - [[Application Discovery]]
+- [[Port Scanning]]
+- [[Web Fuzzing]]
 
+# Exploração
+# Pós exploração 
+- [[01 - Linux]]
+- [[Atualizando Shell Linux]]
+- [[02 - Windows]]
+- [[Recuperando credenciais]]
 # Bases Técnicas
--  Linux
 
-# Programação
-- [[Orientação a Objeto python]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Vault Info
 - 🗄️ Recent file updates
  `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`

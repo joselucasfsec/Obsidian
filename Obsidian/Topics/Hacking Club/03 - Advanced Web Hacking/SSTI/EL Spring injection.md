@@ -11,7 +11,7 @@ Dentro do java também podemos chamar bibliotecas que estejam importadas dentro 
 Para explorar uma aplicação Java é necessário sempre enviar nossas requisições utilizando URL Encode.
 	**{{"".class.getMethod()[6]}}**
 
-Porem no Java podemos importar diretamente uma classe para isso vamos usar o {{"".class.forName('classe')}}. A classe que vamos chamar é a runtime:
+Porém no Java podemos importar diretamente uma classe para isso vamos usar o {{"".class.forName('classe')}}. A classe que vamos chamar é a runtime:
 	**{{"lucas".class.forName('java.lang.Runtime')}}**
 
 Vamos chamar a classe|método **Runtime** porque dentro dela existe a **getRuntime()** que possui o método **exec()** que permite executar comandos dentro do servidor

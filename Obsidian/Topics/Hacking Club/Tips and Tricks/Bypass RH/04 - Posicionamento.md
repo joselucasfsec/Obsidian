@@ -1,0 +1,1 @@
+Não há uma receita para construir nosso currículo ou perfil do linkedin para ter um bom posicionamento

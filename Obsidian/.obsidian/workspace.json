@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/Hacking Club/03 - Advanced Web Hacking/Git Exposed.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Exposed"
+              "title": "Home"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "27d1d5d0d97f553f",
+    "id": "94c4dcb1d2e528cd",
     "type": "split",
     "children": [
       {
-        "id": "69daa29616269dd7",
+        "id": "668a05bd7a96a160",
         "type": "tabs",
         "children": [
           {
-            "id": "0cb7c10f657b6d11",
+            "id": "03441152c43bf1cf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "25c84b81d15ecfaf",
+            "id": "c974f0c39ef3c5b2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "hydra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "ed48ce16d4b99247",
+            "id": "22df73ccb55c6bb6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 200
   },
   "right": {
-    "id": "a16511116237c7ec",
+    "id": "2dda8146497428e8",
     "type": "split",
     "children": [
       {
-        "id": "035dd399dd533aa0",
+        "id": "c4337403fc9b01cb",
         "type": "tabs",
         "children": [
           {
-            "id": "a60cd483a57bc377",
+            "id": "56f3e1c211d2eb78",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Notas Completas/Redes/Redes/Capítulo 1 - Usos de Rede De Computadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,40 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Capítulo 1 - Usos de Rede De Computadores"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "547d7ff252827643",
+            "id": "4d8520b5a87f6845",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Notas Completas/Redes/Redes/Capítulo 1 - Usos de Rede De Computadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Capítulo 1 - Usos de Rede De Computadores"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "7c4e6ae69cacf923",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Home.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário de Home"
-            }
-          },
-          {
-            "id": "e00f550f64bcf89a",
+            "id": "1e0c5aeb223db78c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,7 +135,7 @@
             }
           },
           {
-            "id": "dd4d14c77aed1165",
+            "id": "4ed1a2547cf6dcc0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -166,90 +149,84 @@
             }
           },
           {
-            "id": "643779856c25e9d9",
+            "id": "cbd63fba0abf93dc",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
+              "type": "outline",
               "state": {
-                "file": "Topics/Programação/Sem título.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-info",
-              "title": "Propriedades do arquivo Sem título"
+              "icon": "lucide-list",
+              "title": "Sumário"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "callout-manager:Insert Callout": false,
       "homepage:Open homepage": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
       "templater-obsidian:Templater": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Topics/Checklist Pentest/5 - Pós-exploração/Pós Exploração Windows/Exploração Manual.md",
+    "Topics/Hacking Club/06 - Posicionamento e Escrita/09 - Como treinar a apresentação?.md",
+    "Topics/Hacking Club/06 - Posicionamento e Escrita/08 - Do elogio ao ownagem.md",
+    "Arquivos/imagens/Captura de tela de 2025-11-11 06-51-59.png",
+    "Arquivos/imagens/Captura de tela de 2025-11-11 06-49-38.png",
     "Home.md",
-    "Topics/Hacking Club/03 - Advanced Web Hacking/Dependency Confusion/Dependency Confusion.md",
-    "Arquivos/imagens/Captura de tela de 2025-09-04 12-52-27.png",
-    "Topics/Hacking Club/03 - Advanced Web Hacking/XML External Entity Attack/XXE Out-of-Band.md",
-    "Topics/Hacking Club/03 - Advanced Web Hacking/XML External Entity Attack/XXE.md",
-    "Topics/Hacking Club/03 - Advanced Web Hacking/XML External Entity Attack/OOB Out-of-Band.md",
-    "Topics/Hacking Club/Web Hacking/SQL Injection/SQLi Error Based.md",
-    "Topics/Hacking Club/03 - Advanced Web Hacking/Dependency Confusion/Iniciar um projeto com NPM.md",
-    "Topics/Hacking Club/06 - Posicionamento e Escrita/Escrita orientada ao impacto.md",
-    "Topics/Hacking Club/06 - Posicionamento e Escrita/01 Notas de forma efetiva sem perder tempo.md",
-    "1 - Notas Rápidas/POO PHP.md",
-    "Topics/Hacking Club/06 - Posicionamento e Escrita",
-    "Topics/Checklist Pentest/5 - Pós-exploração/Pós Exploração Linux/Shell Upgrade/Atualizando Shell Linux.md",
-    "Topics/Checklist Pentest/5 - Pós-exploração/Pós Exploração Linux/Explorações/LD_PRELOAD.md",
-    "Topics/Hacking Club/03 - Advanced Web Hacking/SSRF/03 - Gopherus.md",
-    "Topics/Hacking Club/03 - Advanced Web Hacking/SSRF/02 - SSRF PortScan.md",
-    "Topics/Hacking Club/03 - Advanced Web Hacking/SSRF/01 - SSRF(Server Site Request Forguery).md",
-    "Arquivos/imagens/Captura de tela de 2025-08-27 09-50-13.png",
-    "Arquivos/imagens/Captura de tela de 2025-08-27 09-47-45.png",
-    "Arquivos/imagens/Captura de tela de 2025-08-27 09-41-30.png",
-    "Arquivos/imagens/Captura de tela de 2025-08-27 09-38-54.png",
-    "Topics/Bases Técnicas/Protocolos/139, 445 SMB.md",
-    "Topics/Hacking Club/03 - Advanced Web Hacking/SSRF",
-    "Topics/Programação/Python/Orientação a Objeto python.md",
-    "Topics/Checklist Pentest/5 - Pós-exploração/Pós Exploração Linux/01 - Escalação de privilégios.md",
-    "Topics/Hacking Club/03 - Advanced Web Hacking/Desserialização insegura/03 Desserialização PHP.md",
-    "Topics/Ferramentas para Pentest/WpScan.md",
-    "Topics/Checklist Pentest/3 - Análise do Ambiente/Enumeração.md",
-    "Topics/Ferramentas para Pentest/Enum4linux.md",
-    "Topics/Ferramentas para Pentest/RustScan.md",
-    "Topics/Ferramentas para Pentest/Masscan.md",
-    "Topics/Ferramentas para Pentest/Nmap.md",
-    "Arquivos/imagens/2025-08-20_10-14.png",
-    "Arquivos/imagens/2025-08-20_10-10.png",
-    "Arquivos/imagens/2025-08-20_09-15.png",
-    "Arquivos/imagens/Pasted image 20250820085546.png",
-    "Arquivos/imagens/2025-08-20_08-13.png",
-    "Topics/Hacking Club/03 - Advanced Web Hacking/Desserialização insegura/Desafio",
-    "Topics/Tricks/Bruteforce",
-    "Topics/Tricks",
-    "Topics/Programação/Python",
-    "Topics/Hacking Club/03 - Advanced Web Hacking/Desserialização insegura",
-    "Topics/Checklist Pentest/5 - Pós-exploração/Pós Exploração Linux/Explorações",
-    "Topics/Tools Pentest/JohntheRipper",
-    "Topics/Checklist Pentest/5 - Pós-exploração/Pós Exploração Linux/Tools automatizadas",
-    "Sem título.canvas"
+    "Topics/Hacking Club/06 - Posicionamento e Escrita/07 Falando com dev x com diretor.md",
+    "Arquivos/imagens/Captura de tela de 2025-11-10 15-47-51.png",
+    "Topics/Hacking Club/06 - Posicionamento e Escrita/04 Recursos gratuitos para o slide.md",
+    "Topics/Hacking Club/06 - Posicionamento e Escrita/Descrição da Vulnerabilidade.md",
+    "Topics/Hacking Club/06 - Posicionamento e Escrita/Conheça seu público.md",
+    "Topics/Hacking Club/06 - Posicionamento e Escrita/Relatório.md",
+    "Topics/Checklist Pentest/5 - Pós-exploração/01 - Pós Exploração Linux/Transferrência de arquivos.md",
+    "Topics/Checklist Pentest/5 - Pós-exploração/01 - Pós Exploração Linux/Binários.md",
+    "Topics/Checklist Pentest/5 - Pós-exploração/01 - Pós Exploração Linux/Explorações/Python Library Hijackjing.md",
+    "Topics/Checklist Pentest/5 - Pós-exploração/01 - Pós Exploração Linux/Explorações/LD_PRELOAD.md",
+    "Topics/Checklist Pentest/5 - Pós-exploração/Pós Exploração Windows/02 - Windows.md",
+    "Topics/Checklist Pentest/5 - Pós-exploração/Pós Exploração Windows/Recuperando credenciais.md",
+    "Topics/Checklist Pentest/5 - Pós-exploração/01 - Pós Exploração Linux/Atualizando Shell Linux.md",
+    "1 - Notas Rápidas/Binario Nmap.md",
+    "Application Discovery.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/2 - Information Gathering - INFRA/Subdomain Discovery.md",
+    "Topics/Checklist Pentest/2 - Reconhecimento/Port Scanning.md",
+    "Topics/Checklist Pentest/2 - Reconhecimento/Web Fuzzing.md",
+    "Topics/Checklist Pentest/5 - Pós-exploração/01 - Pós Exploração Linux/Cron Jobs.md",
+    "Topics/Checklist Pentest/5 - Pós-exploração/01 - Pós Exploração Linux/Exploração do Kernel.md",
+    "Topics/Checklist Pentest/5 - Pós-exploração/01 - Pós Exploração Linux/02 - Escalação de privilégios.md",
+    "Topics/Checklist Pentest/5 - Pós-exploração/01 - Pós Exploração Linux/01 - Linux.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/3 - Information Gathering - WEB/Fuzzing de Diretórios.md",
+    "Topics/Checklist Pentest/1 - Intelligence Information Gathering/3 - Information Gathering - WEB/03 - Enumerar Parâmetros.md",
+    "Arquivos/imagens/Exemplo.png",
+    "Arquivos/imagens/receptor.png",
+    "Arquivos/imagens/explorador.png",
+    "Arquivos/imagens/sentinela.png",
+    "Arquivos/imagens/diplomata.png",
+    "Arquivos/imagens/analista.png",
+    "Arquivos/imagens/MDTI.png",
+    "1 - Notas Rápidas/Hackers_do_bem",
+    "Topics/Cloud Computing",
+    "Topics/Tricks/CMSs",
+    "Topics/Desenvolvimento Web/PHP/02 - Iniciando do Zero"
   ]
 }

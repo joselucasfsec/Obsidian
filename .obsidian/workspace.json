@@ -11,10 +11,14 @@
             "id": "b12bccaf794e4844",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Topics/Checklist Pentest/1 - Intelligence Information Gathering/2 - Information Gathering - INFRA/Subdomain Takeover.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Subdomain Takeover"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 400.5
   },
   "right": {
     "id": "baa6648aa1a0bb17",
@@ -156,16 +160,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "b12bccaf794e4844",
   "lastOpenFiles": [
+    "Obsidian/Topics/Checklist Pentest/1 - Intelligence Information Gathering/2 - Information Gathering - INFRA/RDAP.md",
+    "Obsidian/Topics/Checklist Pentest/2 - Reconhecimento/Mecanismos de Defesa.md",
+    "Obsidian/Topics/Checklist Pentest/2 - Reconhecimento/Mapear portas TCP e UDP abertas.md",
+    "Obsidian/Topics/Checklist Pentest/2 - Reconhecimento/Tracking The Route.md",
     "Obsidian/Topics/Checklist Pentest/4 - Web Hacking/SQL injection/SQLi Error Based.md",
     "Obsidian/Topics/Checklist Pentest/4 - Web Hacking/SQL injection/SQL Blind.md",
     "Obsidian/Topics/Checklist Pentest/4 - Web Hacking/SQL injection/SQL Injection.md",
@@ -194,10 +203,6 @@
     "Obsidian/Topics/Checklist Pentest/3 - Análise do Ambiente/Enumeração.md",
     "Obsidian/Topics/Checklist Pentest/2 - Reconhecimento/Identificar o Sistema Operacional.md",
     "Obsidian/Topics/Checklist Pentest/3 - Análise do Ambiente/Análise do Ambiente.md",
-    "Obsidian/1 - Notas Rápidas/SSRF explorando metadados da AWS.md",
-    "Obsidian/1 - Notas Rápidas/POO PHP.md",
-    "Obsidian/1 - Notas Rápidas/XML.md",
-    "Obsidian/Topics/Checklist Pentest/5 - Pós-exploração/Pós Exploração Linux/Python Library Hijackjing.md",
     "Obsidian/Topics/Bases Técnicas/Protocolos"
   ]
 }

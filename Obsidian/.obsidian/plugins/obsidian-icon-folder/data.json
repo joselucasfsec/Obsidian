@@ -34,22 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Media": {
-    "iconName": "FasImage",
-    "iconColor": "#60c31d"
-  },
-  "Certifications": {
-    "iconName": "FasCertificate",
-    "iconColor": "#ffb22e"
-  },
-  "Templates": {
-    "iconName": "LiBookType",
-    "iconColor": "#7303b0"
-  },
-  "Books": {
-    "iconName": "FasBook",
-    "iconColor": "#c50202"
-  },
   "Home.md": "🏠",
   "Topics": {
     "iconName": "FasCircleInfo",

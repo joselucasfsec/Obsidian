@@ -1,6 +1,6 @@
 Na computação, serialização e desserialização são processos essenciais que envolvem a conversão de estruturas de dados complexas em um formato adequado para armazenamento ou transmissão e, em seguida, a reconstrução de volta à sua forma original. Serialização e desserialização são processos básicos na comunicação de API.
 
-## Serialização 
+# Serialização 
 Serialização é o processo de conversão de estruturas de dados complexas(como objetos e arrays) em um formato adequado para transmissão ou armazenamento(Banco de dados, Arquivos e Integrações). Isso geralmente se refere a representações em texto, como:
 **Binários**: Java serialization, Python pickle, C++ Object Representation.
 **Human-readable:** JSON, YAML, XML, SOAP, PHP Serialization
